@@ -14,3 +14,6 @@ window.addEventListener('scroll', function() {
 
 // Smooth scroll for navigation (if you add nav links)
 // Example: document.querySelector('a[href="#about"]').onclick = (e) => { ... }
+
+
+// change
